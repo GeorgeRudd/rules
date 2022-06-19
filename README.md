@@ -1,5 +1,5 @@
 # DOMAIN-SET
-https://github.com/RandyCGarcia/rules/blob/main/DOMAIN-SET.conf
+https://raw.githubusercontent.com/RandyCGarcia/rules/main/DOMAIN-SET.conf
 
 
 # GeoIP2-CN
